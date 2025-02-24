@@ -10,7 +10,7 @@ Hi I'm Harsh 👋
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=varun789-mx&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <div align="center">
-    <img src="https://api.githubtrends.io/user/svg/varun789-mx/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Top Languages" width="400"/>
+    <img src="" alt="Top Languages" width="400"/>
 </div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=varun789-mx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varun789-mx&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
